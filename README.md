@@ -1,6 +1,6 @@
 ### Hi, this is Fused Buzzer 👋
 
-I am a STEM engineer with a BEng of CSEE from the University of Liverpool.
+I am a STEM engineer with a BEng of CSEE from the University of Liverpool. I have a passion for problem-solving, particularly when it comes to tackling bugs and challenges in complex systems.
 
 **My Research Interest**:
   - Autonomous Driving
