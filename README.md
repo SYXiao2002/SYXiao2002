@@ -30,7 +30,7 @@ I am a STEM engineer with a BEng of CSEE from the University of Liverpool. I hav
 
 
 
-#### Softwares
+#### Softwares:
 ![Static Badge](https://img.shields.io/badge/Solidworks-red?style=for-the-badge)&nbsp;
 ![Static Badge](https://img.shields.io/badge/keil%20uvision%205-green?style=for-the-badge)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Altium%20Designer-yellow?style=for-the-badge)&nbsp;
